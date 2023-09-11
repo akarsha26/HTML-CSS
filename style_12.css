@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(120, 33, 59);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+  }
+  .container {
+    background-color: rgb(104, 27, 40);
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+  }
+
+  .form-group {
+    margin: 10px 0;
+  }
+
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .register-button {
+    background-color: white;
+    color: brown;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .register {
+    width: 400px;
+  }
